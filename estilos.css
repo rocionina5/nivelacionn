@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.input-group-text {
+    background-color: #e9ecef;
+    color: #2582df;
+}
